@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LargeFamilyMedicineTracker</string>
+    <string name="Title">Large Family Kids Medicine Tracker</string>
+    <string name="AddChildButton">Add A Child</string>
+    <string name="title_activity_add_child">AddChildActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_view_child">ViewChildActivity</string>
+    <string name="title_activity_edit_child">EditChildActivity</string>
+    <string name="AddChildText">Add A Child Here</string>
+    <string name="BackToHome">Back</string>
+    <string name="AddChildLbl">Name</string>
+    <string name="DOB">D.O.B.</string>
+    <string name="AddChildName">Name</string>
+</resources>
